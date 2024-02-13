@@ -3,7 +3,7 @@
 <ul>
   <li>:computer: My interest are web and mobile development.</li>
   <li>:book: I'm a fourth year computer science student.</li>
-  <li>🌱 I’m currently learning Angular.</li>
+  <li>🌱 I’m currently learning Angular and ASP.NET.</li>
   <li>:speech_balloon: I'm mainly speaking Polish and English.</li>
   <li>:zap: In my free time I enjoy running to stay fit.</li>
 </ul>
